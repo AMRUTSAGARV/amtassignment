@@ -1,1 +1,1 @@
-console.log("A Neww Assignment")
+console.log("New Assignment")
